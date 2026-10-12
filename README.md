@@ -89,6 +89,7 @@ The project (quotes, settings, background photo, book cover and music) is saved 
 ## Files
 
 - `index.html` — the complete application (interface, styles, preview, editor and local video renderer).
+- `sales.html` — the sales page ($17 one-time front-end offer). Paste the checkout link into `CHECKOUT_URL` at the bottom of the file.
 
 No build step, Node.js server or database is required.
 
